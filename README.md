@@ -1,4 +1,4 @@
-# Power Aware Container Scheduling in Cloud Computing with Affinity and Cubic Power Model
+# Power Aware Container Placement in Cloud Computing with Affinity and Cubic Power Model
 
 - Containers are the preferred choice for running internet applications on data centers. If a container is assigned to the anti-affinity machine, it may hamper performance and proper operation of container due to incompatible machine. Whereas assigning container to its affinity machine can reduce costs due to communication and transportation.
 - In order to reduce the maintenance and operation cost of data centers, this work focuses on the problem of allocating containers on heterogeneous server clusters. The purpose is to meet the affinity/anti-affinity requirements as much as possible while minimizing power consumption of the cluster.
