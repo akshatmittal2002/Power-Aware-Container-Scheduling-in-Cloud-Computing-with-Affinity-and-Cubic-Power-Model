@@ -36,4 +36,11 @@ pip install numpy matplotlib mosek pandas
 - Inside Jupyter Notebook, you can run each cell of the IPYNB file by clicking on it and pressing `Shift + Enter` or by using the `Run` button in the toolbar.
 - Alternatively, you can run the whole notebook in a single go by using the `Run All` option in the toolbar.
 
-## Link to the preprint version - https://arxiv.org/abs/2408.01176
+### Link to the preprint version 
+https://arxiv.org/abs/2408.01176
+
+### Link to the paper 
+https://link.springer.com/article/10.1007/s00607-025-01566-0
+
+### Please cite our work as :
+Sarkar, S., Sharma, N., Mittal, A. et al. Power aware container placement in cloud computing with affinity and cubic power model. Computing 107, 221 (2025). https://doi.org/10.1007/s00607-025-01566-0
